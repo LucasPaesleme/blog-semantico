@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav-bar{
+    border: 2px solid #dbdbdb;
+    height: 6rem;
+}
+.nav-bar ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
